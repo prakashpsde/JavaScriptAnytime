@@ -1,2 +1,2 @@
 # JavaScriptAnytime
-[01: Currying]([url](https://github.com/prakashpsde/JavaScriptAnytime/blob/main/Currying.txt)https://github.com/prakashpsde/JavaScriptAnytime/blob/main/Currying.txt)
+[01: Currying]([https://github.com/prakashpsde/JavaScriptAnytime/blob/main/Currying.txt])
