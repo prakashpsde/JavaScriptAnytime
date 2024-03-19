@@ -4,3 +4,5 @@
 [02: Memoization](https://github.com/prakashpsde/JavaScriptAnytime/blob/main/Memoization.txt)
 
 [03: Closures](https://github.com/prakashpsde/JavaScriptAnytime/blob/main/Closures.txt)
+
+[04: Function Composition]([url](https://github.com/prakashpsde/JavaScriptAnytime/blob/main/FunctionComposition.txt))
