@@ -5,4 +5,4 @@
 
 [03: Closures](https://github.com/prakashpsde/JavaScriptAnytime/blob/main/Closures.txt)
 
-[04: Function Composition]([url](https://github.com/prakashpsde/JavaScriptAnytime/blob/main/FunctionComposition.txt))
+[04: Function Composition](https://github.com/prakashpsde/JavaScriptAnytime/blob/main/FunctionComposition.txt)
