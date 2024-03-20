@@ -1,0 +1,15 @@
+Proxy
+The proxy object allows you to create custom behavior for basic object operations.
+It allows you to intercept and modify object operations.
+‘object, such as accessing properties, assigning, and calling methods.
+Example 01:
+const handler = {
+  get: (target, prop) => {
+    console.log(`Accessing property: ${prop}`);
+    return target[prop];
+  },
+};
+
+const targetObj = { name: 'Prakash', age: 27 };
+const proxyObj = new Proxy(targetObj, handler);
+console.log(proxyObj.name); // Output: Accessing property: name \n Prakash
